@@ -14,4 +14,10 @@ It works on Windows, Linux and macOS, and it deploys to any Linux VPS or bare-me
 ### Links
 🌐 [shipown.com](https://shipown.com) · 📺 [YouTube](https://www.youtube.com/@shipown) · 🐦 [X](https://x.com/getshipown) · 📸 [Instagram](https://www.instagram.com/getshipown/) · 📌 [Pinterest](https://in.pinterest.com/getshipown/)
 
+### Start here
+- [Download the Shipown app](https://shipown.com/download)
+- [Compare Shipown with other self-hosted deploy tools](https://shipown.com/compare)
+- [Shipown blog: VPS deploy guides](https://shipown.com/blog)
+- [Supported environments](https://shipown.com/docs/supported-environments)
+
 Shipown is commercial and not open source. **Start free for 30 days at [shipown.com](https://shipown.com).**
